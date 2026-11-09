@@ -102,7 +102,7 @@ Open `.env` and replace the placeholder:
 
 ```env
 GEMINI_API_KEY=your_actual_api_key
-GEMINI_MODEL=gemini-2.5-flash
+GEMINI_MODEL=gemini-3.5-flash-lite
 ```
 
 Do not add quotation marks around the key. Never upload `.env` to GitHub.
